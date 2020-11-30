@@ -58,4 +58,11 @@ try {
                 int z = in.nextInt();
                 switch (z) {
                     case 1:
+                    
         
+        
+        
+```
+### 七、核心代码
+
+![](5.png)
